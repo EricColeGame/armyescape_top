@@ -29,6 +29,6 @@ export const siteConfig: SiteConfig = {
   gameUrl: "https://apps.apple.com/au/app/army-escape/id6756966480",
   heroVideoId: "",
   social: {},
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "ko", "es"],
   defaultLocale: "en",
 };
