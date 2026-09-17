@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "Wiki de armyescape",
+    "shortName": "Army Escape",
+    "tagline": "Guía, jugabilidad y actualizaciones",
+    "description": "Explora la wiki de Army Escape para descubrir consejos de juego, estrategias de escape, información sobre enemigos, actualizaciones, armas y todo lo que necesitas para sobrevivir a misiones peligrosas.",
+    "legalNotice": "Wiki no oficial creada por fans. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "maps": "Mapas",
+    "items": "Objetos",
+    "controls": "Controles",
+    "tips": "Consejos",
+    "community": "Comunidad"
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Army Escape",
+    "about": "La wiki de Army Escape es un centro de guías independiente creado por fans que incluye estrategias de escape, consejos de combate, guías de enemigos, armas e información esencial tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Aviso legal",
+    "copyright": "2026 Army Escape Wiki. No está afiliado a Duc Anh Nguyen Vu ni a Apple.",
+    "description": "Juego de acción militar, supervivencia y escape en iOS. Esquiva enemigos, gestiona tu munición y escapa.",
+    "playGame": "Jugar en App Store",
+    "officialDiscord": "Comunidad oficial",
+    "officialYoutube": "Medios oficiales",
+    "vvBuilder": "Planificador de escape",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Rutas de escape",
+    "bossGuides": "Guías de enemigos",
+    "buildGuide": "Armas y combate",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Army Escape - Guía, jugabilidad y actualizaciones",
+      "description": "Explora la wiki de Army Escape para obtener consejos de juego, estrategias de escape, información de enemigos, actualizaciones, armas y todo lo que necesitas para sobrevivir a misiones peligrosas."
+    },
+    "hero": {
+      "eyebrow": "Wiki comunitaria hecha por fans",
+      "title": "Wiki de Army Escape",
+      "description": "Army Escape es un juego de acción militar y supervivencia donde esquivas el fuego enemigo, administras munición limitada, derrotas enemigos, superas obstáculos y escapas de la zona de peligro.",
+      "stats": [
+        "Lanzamiento: 2025",
+        "Versión: 1.1",
+        "Mínimo: iOS 12+",
+        "Idioma: Inglés"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía paso a paso de escape",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje en Army Escape",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Domina el movimiento básico, la navegación en zonas de peligro y los fundamentos de supervivencia para completar tu primera misión de escape."
+        },
+        {
+          "number": "2",
+          "title": "Tácticas de evasión y fuego enemigo",
+          "description": "Aprende a esprintar entre coberturas tácticas, esquivar el fuego continuo del enemigo y preservar tu reserva de salud."
+        },
+        {
+          "number": "3",
+          "title": "Munición y eficiencia en combate",
+          "description": "Conserva la munición limitada, apunta a objetivos de alta prioridad y aprovecha cada disparo al abrirte paso por puntos de estrangulamiento custodiados."
+        },
+        {
+          "number": "4",
+          "title": "Ruta de escape paso a paso",
+          "description": "Reconoce rutas de patrulla, localiza puntos clave de extracción y supera obstáculos del mapa en complejos militares y prisiones."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Escape de la base militar",
+        "Tácticas de escape",
+        "Controles y movimiento",
+        "Guía de supervivencia"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tu primera partida hasta dominar los fundamentos del combate y la progresión.",
+          "href": "/beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Todos los códigos funcionales con recompensas: canjéalos antes de que caduquen.",
+          "href": "/codes"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Base de datos de equipamiento",
+          "description": "94 objetos en 5 ranuras: base de datos completa de equipo con estadísticas, rareza y fuentes.",
+          "href": "/equipment"
+        },
+        {
+          "badge": "Popular",
+          "title": "¿Qué raza deberías elegir?",
+          "description": "Shinigami, Quincy o Hollow: compara las tres y encuentra tu estilo de juego ideal.",
+          "href": "/races/best-race"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Enemigos y monstruos",
+          "description": "23 tipos de enemigos en 5 regiones: botines, ubicaciones y consejos de farmeo.",
+          "href": "/enemies"
+        },
+        {
+          "badge": "Popular",
+          "title": "Ubicaciones de jefes y botines",
+          "description": "Cada ubicación de jefe, tabla de botines y tiempo de reaparición en una sola referencia.",
+          "href": "/boss-locations-drops-respawn-times"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores builds",
+          "description": "Distribución óptima de estadísticas, elecciones del árbol de habilidades y combinaciones de talismanes para cada estilo de juego.",
+          "href": "/builds/best-builds"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Tier list de Shikai",
+          "description": "Los 6 tipos de Shikai de Shinigami clasificados según su rendimiento en JcJ y JcE.",
+          "href": "/tier-list/shikai"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de eventos mundiales",
+          "description": "Alijos de suministros, incursiones y eventos mundiales de juego avanzado con recompensas raras.",
+          "href": "/world-events"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Army Escape?",
+      "paragraphs": [
+        "Army Escape es un intenso juego militar de acción, supervivencia y escape desarrollado por Duc Anh Nguyen Vu para iOS y iPad. Los jugadores deben recorrer rutas peligrosas, esquivar el implacable fuego enemigo, racionar con cuidado la escasa munición y eliminar guardias hostiles para escapar con éxito de zonas de peligro.",
+        "Ya sea que estés trazando rutas por complejos puestos de control, dominando maniobras evasivas tácticas o adaptándote a los encuentros de la versión 1.1 con formaciones enemigas más duras y mayor salud del jugador, nuestra wiki comunitaria ofrece guías detalladas y recorridos tácticos paso a paso."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Duc Anh Nguyen Vu"
+        },
+        {
+          "label": "Plataforma",
+          "value": "iOS / iPad (iOS 12+)"
+        },
+        {
+          "label": "Género",
+          "value": "Acción militar / Escape"
+        },
+        {
+          "label": "Año de lanzamiento",
+          "value": "2025"
+        },
+        {
+          "label": "Última versión",
+          "value": "1.1"
+        },
+        {
+          "label": "Enfoque de combate",
+          "value": "Evasión y disparos tácticos"
+        },
+        {
+          "label": "Idioma principal",
+          "value": "Inglés"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explorar la wiki de Army Escape",
+      "description": "Domina la supervivencia táctica y las estrategias de escape militar con guías completas, tácticas de evasión, análisis de enemigos y registros de actualizaciones.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía del juego armyescape",
+          "description": "Mecánicas principales de juego, navegación de obstáculos, gestión de recursos y objetivos de supervivencia para cada nuevo operativo.",
+          "href": "/guide/army-escape-training",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Inspecciona los alrededores e identifica los puntos de extracción de salida marcados"
+            },
+            {
+              "label": "2",
+              "detail": "Esprinta entre sacos de arena y coberturas de barrera para esquivar el fuego entrante"
+            },
+            {
+              "label": "3",
+              "detail": "Conserva la escasa munición y enfréntate solo a los centinelas que bloqueen el paso"
+            },
+            {
+              "label": "4",
+              "detail": "Alcanza la zona segura designada para completar la misión con éxito"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Consejos y trucos de armyescape",
+          "description": "Reflejos de combate esenciales, priorización de amenazas, superación de obstáculos y consejos de gestión de salud.",
+          "href": "/tips/army-escape-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cobertura",
+              "detail": "Aprovecha búnkeres reforzados y muros de hormigón durante ráfagas hostiles intensas"
+            },
+            {
+              "label": "Gatillo",
+              "detail": "Mide cuidadosamente los disparos individuales para no desperdiciar preciada munición del cargador"
+            },
+            {
+              "label": "Flanqueo",
+              "detail": "Evita rutas de patrulla muy agrupadas utilizando callejones secundarios"
+            },
+            {
+              "label": "Paciencia",
+              "detail": "Espera las animaciones de recarga de las torretas centinela antes de lanzarte hacia adelante"
+            },
+            {
+              "label": "Rutas",
+              "detail": "Memoriza los patrones repetitivos de patrulla de los guardias para anticipar emboscadas en esquinas"
+            },
+            {
+              "label": "Recuperación",
+              "detail": "Retrocede a puntos ciegos cuando baje tu salud para evaluar las amenazas restantes"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Armas y combate de armyescape",
+          "description": "Manejo de armas, alcances de enfrentamiento, control de ráfagas y eficiencia de daño contra fuerzas hostiles.",
+          "href": "/mechanics/army-escape-survival",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Rifle táctico de precisión — Gran impacto por disparo y poder de parada fiable a media distancia"
+            },
+            {
+              "label": "A",
+              "detail": "Arma corta reglamentaria — Rápido desenfunde y defensa de apoyo fiable a corta distancia"
+            },
+            {
+              "label": "B",
+              "detail": "Subfusil de ráfagas rápidas — Fuego de supresión eficaz contra infantería de vanguardia que carga"
+            },
+            {
+              "label": "C",
+              "detail": "Arma pesada de emergencia — Daño de ráfaga devastador equilibrado por una severa escasez de munición"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Niveles y recorrido de armyescape",
+          "description": "Navegación perimetral fase por fase, brechas de puertas, evasión de reflectores y rutas de extracción.",
+          "href": "/guide/army-escape-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Infíltrate en la instalación de detención inicial y sortea a los guardias del patio exterior"
+            },
+            {
+              "label": "2",
+              "detail": "Desactiva las alarmas de advertencia perimetrales y cruza sectores de seguridad iluminados"
+            },
+            {
+              "label": "3",
+              "detail": "Ábrete camino a través de los depósitos de vehículos del complejo central fuertemente fortificado"
+            },
+            {
+              "label": "4",
+              "detail": "Despeja el puesto de control final de la puerta perimetral y escapa a un lugar seguro"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Enemigos y amenazas de armyescape",
+          "description": "Catálogo completo de combate con fusileros de patrulla, francotiradores estacionarios, unidades blindadas y torres de vigilancia.",
+          "href": "/mechanics/army-escape-escape-and-evasion",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patrulla",
+              "detail": "Guardias de patrulla estándar armados con fusiles de asalto de disparo rápido"
+            },
+            {
+              "label": "Francotirador",
+              "detail": "Tiradores en posiciones elevadas con precisión letal y amplias líneas de visión"
+            },
+            {
+              "label": "Ejecutor",
+              "detail": "Infantería de élite blindada introducida en las recientes actualizaciones tácticas 1.1"
+            },
+            {
+              "label": "Ojeador",
+              "detail": "Exploradores perimetrales equipados con reflectores y señales de alarma"
+            },
+            {
+              "label": "Torreta",
+              "detail": "Emplazamientos defensivos automatizados que bloquean pasos estrechos"
+            },
+            {
+              "label": "Comandante",
+              "detail": "Líderes de escuadrón fuertemente pertrechados que coordinan contraataques de campo"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Objetos tácticos y equipamiento de armyescape",
+          "description": "Equipo esencial de supervivencia, cascos protectores, radios de comunicación de campo y mochilas tácticas.",
+          "href": "/items/army-escape-survival-kit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Casco",
+              "detail": "Casco balístico que absorbe el daño de impactos críticos de bala"
+            },
+            {
+              "label": "Radio",
+              "detail": "Equipo militar de comunicación que intercepta alertas de transmisiones enemigas"
+            },
+            {
+              "label": "Botiquín",
+              "detail": "Kit de supervivencia de emergencia en campaña que proporciona primeros auxilios rápidos"
+            },
+            {
+              "label": "Mochila",
+              "detail": "Mochila táctica que amplía la capacidad de carga total y de suministros"
+            },
+            {
+              "label": "Cinturón",
+              "detail": "Cinturón de combate reforzado que brinda acceso rápido a cargadores adicionales"
+            },
+            {
+              "label": "Chaleco",
+              "detail": "Chaleco antibalas ligero que mitiga el fuego continuo"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Códigos promocionales de armyescape",
+          "description": "Últimos códigos promocionales canjeables, recompensas adicionales e instrucciones oficiales para canjearlos.",
+          "href": "/guide/army-escape-military-base-escape",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ESCAPE2026",
+              "detail": "Suministros iniciales gratuitos y raciones tácticas"
+            },
+            {
+              "label": "UPDATE11",
+              "detail": "Paquete de salud adicional y caja de munición extra"
+            },
+            {
+              "label": "SOLDIER50",
+              "detail": "Aspecto exclusivo de equipo táctico y potenciador de monedas"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones e historial de versiones de armyescape",
+          "description": "Registro de cambios de versiones con balance de enemigos, mejoras de salud del jugador, expansiones de mapas y optimizaciones para iOS.",
+          "href": "/guide/army-escape-evasion-training",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Actualización versión 1.1: se añadieron nuevas variantes de enemigos y se incrementó notablemente la salud base del jugador"
+            },
+            {
+              "label": "A",
+              "detail": "Lanzamiento global de la versión 1.0: lanzamiento oficial en el App Store de iOS y iPad con mapas de escape iniciales"
+            },
+            {
+              "label": "B",
+              "detail": "Optimización de controles: controles táctiles de evasión más responsivos y mecánicas de esprint fluidas"
+            },
+            {
+              "label": "C",
+              "detail": "Próximo contenido: equipo táctico planeado, niveles adicionales y ajustes de balance para la comunidad"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a preguntas comunes sobre mecánicas de Army Escape, descargas, códigos y tácticas de supervivencia.",
+      "items": [
+        {
+          "question": "¿Qué es Army Escape y cómo se juega?",
+          "answer": "Army Escape es un juego móvil militar de acción y supervivencia disponible para iOS y iPad, desarrollado por Duc Anh Nguyen Vu. Los jugadores recorren zonas de peligro hostiles, esquivan el persistente fuego enemigo, conservan estratégicamente la munición limitada, eliminan guardias amenazantes y localizan puntos de extracción seguros."
+        },
+        {
+          "question": "¿Qué dispositivos y plataformas son compatibles con Army Escape?",
+          "answer": "Army Escape está disponible actualmente para dispositivos iPhone y iPad con iOS 12.0 o posterior a través de la App Store de Apple."
+        },
+        {
+          "question": "¿Cómo conservo munición y sobrevivo en Army Escape?",
+          "answer": "Para sobrevivir en Army Escape, mantente pegado a coberturas sólidas para evitar recibir fuego innecesario, espera a tener ángulos de disparo despejados antes de disparar para maximizar la munición limitada y concéntrate en neutralizar a los enemigos que bloqueen directamente tu ruta de escape."
+        },
+        {
+          "question": "¿Qué cambió en la actualización de la versión 1.1 de Army Escape?",
+          "answer": "La actualización de la versión 1.1 de Army Escape introdujo desafíos de enemigos adicionales a la vez que aumentó la salud base del personaje del jugador para ofrecer un combate táctico de escape más equilibrado e intenso."
+        },
+        {
+          "question": "¿Hay códigos de canje válidos para Army Escape?",
+          "answer": "Consulta periódicamente la sección de códigos promocionales de Army Escape y las actualizaciones de la comunidad para conocer las recompensas del juego recién anunciadas, bonificaciones de temporada y códigos de regalo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Army Escape?",
+      "description": "Desde esquivar las primeras patrullas enemigas hasta sobrevivir a zonas de peligro y recorrer rutas de escape, nuestra wiki comunitaria te acompaña con guías exhaustivas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Descargar en App Store"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías y tutoriales de Army Escape",
+    "overviewDescription": "Tutoriales completos para principiantes, análisis de entrenamiento SERE y guías tácticas paso a paso para ayudarte a escapar de zonas militares hostiles."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de Army Escape",
+    "overviewDescription": "Guías detalladas sobre mecánicas de sigilo, tácticas de evasión, sistemas de puzles y protocolos de supervivencia en Army Escape."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y ubicaciones de Army Escape",
+    "overviewDescription": "Información detallada sobre bases militares, complejos, campos de prisioneros y las mejores rutas tácticas de escape."
+  },
+  "items": {
+    "overviewTitle": "Objetos y equipamiento de Army Escape",
+    "overviewDescription": "Base de datos completa de kits de supervivencia, cinturones tácticos, cascos, radios de comunicación y equipo de campo."
+  },
+  "controls": {
+    "overviewTitle": "Controles y movimiento de Army Escape",
+    "overviewDescription": "Asignación de teclas, técnicas de movimiento, esquemas de evasión táctiles y ajustes de respuesta táctica."
+  },
+  "tips": {
+    "overviewTitle": "Consejos y estrategias de Army Escape",
+    "overviewDescription": "Tácticas de escape comprobadas, estrategias de evasión de enemigos, gestión del tiempo y recomendaciones de supervivencia de expertos."
+  },
+  "community": {
+    "overviewTitle": "Centro de la comunidad de Army Escape",
+    "overviewDescription": "Conéctate con otros jugadores, únete al Discord oficial, explora estrategias en Reddit y comparte tácticas de escuadrón."
+  }
+}

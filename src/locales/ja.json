@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "armyescape Wiki",
+    "shortName": "Army Escape",
+    "tagline": "攻略ガイド・ゲームプレイ・最新アップデート",
+    "description": "Army Escape Wikiへようこそ！ゲームプレイのコツ、脱出戦略、敵情報、アップデート、武器など、危険なミッションを生き延びるために必要なすべての情報を網羅した攻略ファンサイトです。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによって、プレイヤーのために運営されています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切り替え",
+    "guide": "ガイド",
+    "mechanics": "ゲームシステム",
+    "maps": "マップ",
+    "items": "アイテム",
+    "controls": "操作方法",
+    "tips": "ヒント・裏技",
+    "community": "コミュニティ"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日時",
+    "viewAllCodes": "コード一覧を見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在利用可能なガイドはありません。近日公開予定！"
+  },
+  "footer": {
+    "aboutTitle": "Army Escape Wikiについて",
+    "about": "Army Escape Wikiは、初心者からベテランまで役立つ脱出戦略、戦闘のコツ、敵ガイド、武器情報、重要ゲーム知識を網羅したファン運営の総合攻略サイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的情報",
+    "copyright": "2026 Army Escape Wiki. Not affiliated with Duc Anh Nguyen Vu or Apple.",
+    "description": "iOS向けミリタリーアクションサバイバル脱出ゲーム。敵の追撃をかわし、弾薬を管理して脱出を目指せ。",
+    "playGame": "App Storeでプレイ",
+    "officialDiscord": "公式コミュニティ",
+    "officialYoutube": "公式メディア",
+    "vvBuilder": "脱出プランナー",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "脱出ルート",
+    "bossGuides": "敵ガイド",
+    "buildGuide": "武器＆戦闘",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "home": {
+    "meta": {
+      "title": "Army Escape Wiki - ガイド、ゲームプレイ＆最新アップデート",
+      "description": "Army Escape Wikiでは、ゲームプレイのコツ、脱出戦略、敵情報、アップデート情報、武器など、危険なミッションを生き延びるために必要なすべての情報を網羅しています。"
+    },
+    "hero": {
+      "eyebrow": "ファン作成コミュニティWiki",
+      "title": "Army Escape Wiki",
+      "description": "Army Escapeは、敵の砲火をかわし、限られた弾薬を管理し、敵を倒し、障害を乗り越えて危険地帯からの脱出を目指すミリタリーアクションサバイバルゲームです。",
+      "stats": [
+        "リリース: 2025年",
+        "バージョン: 1.1",
+        "必要動作環境: iOS 12以降",
+        "対応言語: 英語"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "脱出攻略チャート",
+      "tertiaryCta": "有効なコード",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "Army Escape 攻略への道",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "基本操作、危険地帯の進み方、サバイバルの基礎をマスターして、最初の脱出ミッションをクリアしましょう。"
+        },
+        {
+          "number": "2",
+          "title": "回避戦術と敵の射撃対策",
+          "description": "戦術的な遮蔽物間をダッシュで移動し、途切れない敵の射撃を回避してHPを維持する方法を学びます。"
+        },
+        {
+          "number": "3",
+          "title": "弾薬管理と戦闘効率",
+          "description": "限られた弾薬を節約し、優先度の高い敵を狙い、警備の厳しいチョークポイントを突破する際の一撃を最大限に活かしましょう。"
+        },
+        {
+          "number": "4",
+          "title": "脱出ルート攻略",
+          "description": "巡回ルートを偵察し、重要な脱出地点（エクスフィルトレーション）を特定して、軍事施設や刑務所の障害を乗り越えます。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "トレンド・注目記事",
+      "quickLinks": [
+        "軍事基地からの脱出",
+        "脱出戦術",
+        "操作方法・移動",
+        "サバイバルガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "初ログインから戦闘の基本、ゲーム進行のマスターまでに必要なすべての情報。",
+          "href": "/beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "有効なコード",
+          "description": "現在利用可能な引き換えコード一覧。期限が切れる前に報酬を受け取りましょう。",
+          "href": "/codes"
+        },
+        {
+          "badge": "更新",
+          "title": "装備データベース",
+          "description": "5つのスロットにわたる全94種のアイテム情報。ステータス、レア度、入手先を網羅。",
+          "href": "/equipment"
+        },
+        {
+          "badge": "人気",
+          "title": "おすすめの種族は？",
+          "description": "死神、滅却師（クインシー）、虚（ホロウ）の3種族を徹底比較し、自分に合ったプレイスタイルを見つけよう。",
+          "href": "/races/best-race"
+        },
+        {
+          "badge": "新規",
+          "title": "敵・モンスター一覧",
+          "description": "5つの地域に登場する全23種の敵タイプ。ドロップ品、出現場所、効率的な周回テクニック。",
+          "href": "/enemies"
+        },
+        {
+          "badge": "人気",
+          "title": "ボスの出現場所とドロップ品",
+          "description": "全ボスの出現場所、ドロップテーブル、リスポーン時間を一括チェック。",
+          "href": "/boss-locations-drops-respawn-times"
+        },
+        {
+          "badge": "人気",
+          "title": "最強おすすめビルド",
+          "description": "プレイスタイルに合わせた最適なステータス振り、スキルツリー選択、チャームの組み合わせ。",
+          "href": "/builds/best-builds"
+        },
+        {
+          "badge": "新規",
+          "title": "始解Tierランキング",
+          "description": "全6種の死神の始解をPvPおよびPvEの性能別にランク付け。",
+          "href": "/tier-list/shikai"
+        },
+        {
+          "badge": "新規",
+          "title": "ワールドイベントガイド",
+          "description": "物資補給キャッシュ、レイド、レア報酬が手に入るエンドゲームワールドイベント。",
+          "href": "/world-events"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Army Escapeとは？",
+      "paragraphs": [
+        "Army Escapeは、Duc Anh Nguyen VuによってiOSおよびiPad向けに開発された、緊迫感あふれるミリタリーアクション・サバイバル脱出ゲームです。プレイヤーは危険なルートを進み、容赦ない敵の銃撃をかわし、乏しい弾薬を慎重に管理しながら敵兵を排除して、危険地帯からの脱出を目指します。",
+        "複雑な複合施設の検問所のマッピング、戦術的な回避アクションの習得、敵編成の強化やプレイヤーHPの調整が行われたバージョン1.1への適応など、本コミュニティWikiは詳細なガイドと戦術的ウォークスルーを提供します。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Duc Anh Nguyen Vu"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "iOS / iPad (iOS 12以降)"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ミリタリーアクション / 脱出"
+        },
+        {
+          "label": "リリース年",
+          "value": "2025年"
+        },
+        {
+          "label": "最新バージョン",
+          "value": "1.1"
+        },
+        {
+          "label": "戦闘スタイル",
+          "value": "回避＆タクティカルシューティング"
+        },
+        {
+          "label": "主要言語",
+          "value": "英語"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Army Escape Wikiを探索",
+      "description": "包括的な攻略チャート、回避戦術、敵データの詳細解説、アップデート履歴を活用して、戦術的サバイバルとミリタリー脱出戦略をマスターしましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Army Escape ゲームガイド",
+          "description": "新米オペレーター必見の基本ゲームプレイメカニクス、障害物の突破、リソース管理、サバイバル目標。",
+          "href": "/guide/army-escape-training",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "周囲を偵察し、マークされた脱出地点（エクスフィルトレーション）を確認する"
+            },
+            {
+              "label": "2",
+              "detail": "土のうや防壁の遮蔽物間をダッシュして敵の射撃を回避する"
+            },
+            {
+              "label": "3",
+              "detail": "貴重な弾薬を節約し、進路を塞ぐ歩哨のみを排除する"
+            },
+            {
+              "label": "4",
+              "detail": "指定されたセーフゾーンに到達してミッションを完遂する"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Army Escape ヒント＆小ネタ",
+          "description": "重要な戦闘反射神経、脅威の優先順位付け、障害物の排除、HP管理のコツ。",
+          "href": "/tips/army-escape-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "遮蔽物",
+              "detail": "敵の激しい連射中は頑丈なバンカーやコンクリート壁を活用する"
+            },
+            {
+              "label": "トリガー",
+              "detail": "貴重なマガジンの弾薬を無駄にしないよう、単発射撃のタイミングを計る"
+            },
+            {
+              "label": "側面迂回",
+              "detail": "密集した巡回ルートは脇道や路地を使ってバイパスする"
+            },
+            {
+              "label": "忍耐",
+              "detail": "セントリータレットのリロードモーションを待ってから前方にダッシュする"
+            },
+            {
+              "label": "巡回ルート",
+              "detail": "警備兵の周回ルートを記憶し、角での待ち伏せを予測する"
+            },
+            {
+              "label": "回復",
+              "detail": "HPが低下したら死角に後退し、残りの脅威を落ち着いて見極める"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Army Escape 武器と戦闘",
+          "description": "武器の扱い方、交戦距離、バースト制御、敵部隊に対するダメージ効率。",
+          "href": "/mechanics/army-escape-survival",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "高精度タクティカルライフル — 単発の威力が高く、中距離で頼りになる阻止力"
+            },
+            {
+              "label": "A",
+              "detail": "標準支給サイドアーム — 持ち替えが素早く、近接戦で頼れるサイドアーム"
+            },
+            {
+              "label": "B",
+              "detail": "高速連射SMG — 突進してくる前線歩兵に対する効果的な制圧射撃が可能"
+            },
+            {
+              "label": "C",
+              "detail": "緊急用重火器 — 圧倒的な瞬間火力を誇るが、極度の弾薬不足がネック"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Army Escape ステージ＆攻略チャート",
+          "description": "ステージごとの外周突破、ゲート突破、サーチライト回避、脱出ルートの完全ガイド。",
+          "href": "/guide/army-escape-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "最初の収容施設を突破し、外庭の警備兵をやり過ごす"
+            },
+            {
+              "label": "2",
+              "detail": "外周の警報アラームを無効化し、ライトで照らされた警備区画を横断する"
+            },
+            {
+              "label": "3",
+              "detail": "厳重に要塞化された中央複合施設の車両デポを強行突破する"
+            },
+            {
+              "label": "4",
+              "detail": "最終外周ゲートの検問所を制圧し、安全地帯へ脱出する"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Army Escape 敵と脅威",
+          "description": "巡回ライフル兵、固定スナイパー、装甲ユニット、監視塔など敵戦力の完全カタログ。",
+          "href": "/mechanics/army-escape-escape-and-evasion",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "パトロール",
+              "detail": "連射アサルトライフルを装備した標準的な巡回警備兵"
+            },
+            {
+              "label": "スナイパー",
+              "detail": "高所から広範囲の射線を確保する、致命的な命中精度を持つ狙撃手"
+            },
+            {
+              "label": "エンフォーサー",
+              "detail": "バージョン1.1アップデートで追加された重装甲エリート歩兵"
+            },
+            {
+              "label": "スポッター",
+              "detail": "サーチライトと警報シグナルを装備した外周偵察兵"
+            },
+            {
+              "label": "タレット",
+              "detail": "狭い通路を封鎖する自動防衛固定砲台"
+            },
+            {
+              "label": "コマンダー",
+              "detail": "強固に防護され、統率の取れた反撃を指示する部隊指揮官"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Army Escape 戦術アイテム＆装備",
+          "description": "必須サバイバルギア、防弾ヘルメット、野戦通信無線機、タクティカルバックパック。",
+          "href": "/items/army-escape-survival-kit",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ヘルメット",
+              "detail": "致命的な弾丸ダメージを吸収・軽減する防弾ヘルメット"
+            },
+            {
+              "label": "無線機",
+              "detail": "敵の指令通信を傍受できるミリタリー通信機器"
+            },
+            {
+              "label": "キット",
+              "detail": "迅速な応急処置が可能な緊急野戦サバイバルパック"
+            },
+            {
+              "label": "パック",
+              "detail": "全体の所持容量と補給品携行数を増やすタクティカルリュック"
+            },
+            {
+              "label": "ベルト",
+              "detail": "予備マガジンへ素早くアクセスできる強化タクティカルベルト"
+            },
+            {
+              "label": "ベスト",
+              "detail": "連続被弾ダメージを緩和する軽量防弾アーマー"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Army Escape プロモコード",
+          "description": "最新の引き換え可能プロモコード、ボーナス報酬、公式の受け取り手順。",
+          "href": "/guide/army-escape-military-base-escape",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ESCAPE2026",
+              "detail": "無料スターター物資＆タクティカルレーション"
+            },
+            {
+              "label": "UPDATE11",
+              "detail": "ボーナス救急パック＆追加弾薬箱"
+            },
+            {
+              "label": "SOLDIER50",
+              "detail": "限定タクティカルギアスキン＆ゲーム内通貨ブースト"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Army Escape アップデート＆リリース履歴",
+          "description": "敵のバランス調整、プレイヤーHPバフ、マップ拡張、iOS向け最適化を記録した更新履歴。",
+          "href": "/guide/army-escape-evasion-training",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "バージョン1.1アップデート — 新しい敵バリアントの追加とプレイヤー基礎HPの大幅強化"
+            },
+            {
+              "label": "A",
+              "detail": "バージョン1.0グローバルローンチ — iOSおよびiPad App Storeでの初期脱出マップ公式リリース"
+            },
+            {
+              "label": "B",
+              "detail": "操作性最適化 — タッチ回避操作のレスポンス改善とスムーズなダッシュ機能の実装"
+            },
+            {
+              "label": "C",
+              "detail": "今後のアップデート予定 — 新規タクティカルギア、追加ステージ、コミュニティバランス調整"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問（FAQ）",
+      "description": "Army Escapeのゲームシステム、ダウンロード、コード、サバイバル戦術に関する一般的な質問への回答。",
+      "items": [
+        {
+          "question": "Army Escapeとはどのようなゲームで、どのようにプレイしますか？",
+          "answer": "Army Escapeは、Duc Anh Nguyen Vuが手掛けたiOS/iPad向けミリタリーアクションサバイバルゲームです。敵が巡回する危険地帯を進み、執拗な射撃を回避し、限られた弾薬を戦略的に温存しながら脅威となる警備兵を排除し、安全な脱出地点を目指します。"
+        },
+        {
+          "question": "Army Escapeに対応している端末とプラットフォームは？",
+          "answer": "Army Escapeは現在、Apple App StoreにてiOS 12.0以降を搭載したiPhoneおよびiPadデバイス向けに配信されています。"
+        },
+        {
+          "question": "Army Escapeで弾薬を節約し、生き残るためのコツは？",
+          "answer": "無駄な被弾を避けるため常に強固な遮蔽物の近くを行動し、限られた弾薬を無駄にしないよう確実に狙える射線が通るまで発砲を待つこと、そして脱出路を直接塞いでいる敵を優先して排除することが生存の鍵となります。"
+        },
+        {
+          "question": "Army Escapeのバージョン1.1アップデートでの変更点は？",
+          "answer": "バージョン1.1アップデートでは、新たな手強い敵が追加された一方で、プレイヤーキャラクターの基礎HPが引き上げられ、よりバランスの取れた白熱した戦術的脱出アクションが楽しめるようになりました。"
+        },
+        {
+          "question": "Army Escapeで現在使える引き換えコードはありますか？",
+          "answer": "新たに発表されるゲーム内報酬、シーズンボーナス、ギフトコードについては、Army Escapeのプロモコードセクションおよびコミュニティアップデートを定期的にご確認ください。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Army Escapeを極める準備はできましたか？",
+      "description": "初期の敵巡回の回避から危険地帯のサバイバル、脱出ルートの踏破まで、当コミュニティWikiが徹底ガイドします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "App Storeでダウンロード"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Army Escape ガイド＆攻略",
+    "overviewDescription": "敵軍事ゾーンからの脱出をサポートする、初心者向けチュートリアル、SERE（サバイバル）訓練の徹底解説、戦術攻略ガイド。"
+  },
+  "mechanics": {
+    "overviewTitle": "Army Escape ゲームシステム＆メカニクス",
+    "overviewDescription": "Army Escapeにおけるステルスメカニクス、回避戦術、パズル要素、サバイバルプロトコルの詳細解説。"
+  },
+  "maps": {
+    "overviewTitle": "Army Escape マップ＆ロケーション",
+    "overviewDescription": "軍事基地、複合施設、収容所キャンプの詳細マップと最適な脱出ルートの完全ガイド。"
+  },
+  "items": {
+    "overviewTitle": "Army Escape アイテム＆装備",
+    "overviewDescription": "サバイバルキット、タクティカルベルト、ヘルメット、通信用無線機、フィールドギアの完全データベース。"
+  },
+  "controls": {
+    "overviewTitle": "Army Escape 操作方法＆移動テクニック",
+    "overviewDescription": "キー割り当て、移動テクニック、タッチ操作での回避方法、戦術的なレスポンス設定のガイド。"
+  },
+  "tips": {
+    "overviewTitle": "Army Escape ヒント＆戦術攻略",
+    "overviewDescription": "実績ある脱出戦術、敵の回避戦略、タイムマネジメント、エキスパートによるサバイバルアドバイス。"
+  },
+  "community": {
+    "overviewTitle": "Army Escape コミュニティハブ",
+    "overviewDescription": "他のプレイヤーと繋がり、公式Discordへの参加、Redditでの戦略チェック、分隊戦術の共有を行いましょう。"
+  }
+}
