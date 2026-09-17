@@ -107,6 +107,7 @@ export async function WikiSidebar({ locale, navGroups, currentPath }: { locale: 
         </div>
       </section>
     </aside>
+  );
 }
 
 export async function SiteFooter({ locale }: { locale: string }) {
