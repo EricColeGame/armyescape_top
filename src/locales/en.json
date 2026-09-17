@@ -1,6 +1,6 @@
 {
   "site": {
-    "name": "Army Escape Wiki",
+    "name": "armyescape Wiki",
     "shortName": "Army Escape",
     "tagline": "Guide, Gameplay & Updates",
     "description": "Explore the Army Escape Wiki for gameplay tips, escape strategies, enemy information, updates, weapons, and everything you need to survive dangerous missions.",
@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Army Escape Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master core movement, danger zone navigation, and survival fundamentals to complete your first escape mission."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Evasion Tactics & Enemy Fire",
+          "description": "Learn how to sprint between tactical covers, avoid continuous enemy fire, and preserve your survival health pool."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Ammo & Combat Efficiency",
+          "description": "Conserve limited ammunition, aim high-priority hostiles, and maximize every shot when fighting through guarded choke points."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Escape Route Walkthrough",
+          "description": "Scout patrol paths, locate key extraction points, and overcome map obstacles across military compounds and prisons."
         }
       ]
     },
@@ -66,10 +66,10 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Military Base Escape",
+        "Escape Tactics",
+        "Controls & Movement",
+        "Survival Guide"
       ],
       "cards": [
         {
@@ -129,174 +129,264 @@
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Army Escape?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Army Escape is an intense military action survival and escape game developed by Duc Anh Nguyen Vu for iOS and iPad. Players must navigate perilous routes, dodge relentless enemy fire, carefully ration scarce ammunition, and eliminate hostile guards to successfully break out of dangerous zones.",
+        "Whether you are mapping out complex compound checkpoints, mastering tactical evasion maneuvers, or adapting to version 1.1 encounters with tougher enemy formations and enhanced player health, our community wiki provides detailed guides and tactical walkthroughs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Duc Anh Nguyen Vu"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "iOS / iPad (iOS 12+)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Military Action / Escape"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release Year",
+          "value": "2025"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Latest Version",
+          "value": "1.1"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Combat Focus",
+          "value": "Evasion & Tactical Shooting"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Core Language",
+          "value": "English"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Army Escape Wiki",
+      "description": "Master tactical survival and military escape strategies with comprehensive walkthroughs, evasion tactics, enemy breakdowns, and update logs.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "armyescape Game Guide",
+          "description": "Core gameplay mechanics, obstacle navigation, resource management, and survival objectives for every new operative.",
+          "href": "/guide/army-escape-training",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Inspect surroundings and identify marked exit extraction points"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Sprint between sandbags and barrier covers to dodge incoming fire"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Conserve scarce ammunition and engage only blocking sentries"
+            },
+            {
+              "label": "4",
+              "detail": "Reach the designated safety zone to successfully complete the mission"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "armyescape Tips and Tricks",
+          "description": "Essential combat reflexes, threat prioritization, obstacle clearance, and health management tips.",
+          "href": "/tips/army-escape-tips",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Cover",
+              "detail": "Utilize reinforced bunkers and concrete walls during heavy hostile bursts"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Trigger",
+              "detail": "Time single-tap shots carefully to avoid wasting precious magazine ammo"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Flank",
+              "detail": "Bypass tightly grouped patrol routes using secondary alleyways"
+            },
+            {
+              "label": "Patience",
+              "detail": "Wait for reload animations of sentry turrets before dashing forward"
+            },
+            {
+              "label": "Pathing",
+              "detail": "Memorize recurring guard patrol lines to anticipate ambush corners"
+            },
+            {
+              "label": "Recovery",
+              "detail": "Retreat to blind spots when health drops to assess remaining threats"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "armyescape Weapons and Combat",
+          "description": "Weapon handling, engagement ranges, burst control, and damage efficiency against hostile forces.",
+          "href": "/mechanics/army-escape-survival",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Precision Tactical Rifle — High single-shot impact and reliable medium-range stopping power"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Standard Issue Sidearm — Quick draw speed and dependable close-quarters backup defense"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Rapid Burst SMG — Effective suppression fire against charging frontline infantry"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Emergency Heavy Firearm — Devastating burst damage balanced by severe ammo scarcity"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "armyescape Levels and Walkthrough",
+          "description": "Stage-by-stage perimeter navigation, gate breaches, searchlight evasion, and extraction routes.",
+          "href": "/guide/army-escape-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Breach initial holding facility and slip past outer courtyard guards"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Disable perimeter warning alarms and cross illuminated security sectors"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Push through heavily fortified central compound vehicle depots"
+            },
+            {
+              "label": "4",
+              "detail": "Clear the final perimeter gate checkpoint and escape to safety"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "armyescape Enemies and Threats",
+          "description": "Comprehensive combat catalog of patrolling riflemen, stationary snipers, armored units, and watchtowers.",
+          "href": "/mechanics/army-escape-escape-and-evasion",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Patrol",
+              "detail": "Standard patrol guards armed with rapid-fire assault rifles"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Sniper",
+              "detail": "High-ground marksmen with deadly precision and wide sightlines"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Enforcer",
+              "detail": "Armored elite infantry introduced in recent 1.1 tactical updates"
+            },
+            {
+              "label": "Spotter",
+              "detail": "Perimeter scouts equipped with searchlights and alarm signals"
+            },
+            {
+              "label": "Turret",
+              "detail": "Automated defensive emplacements locking down narrow pathways"
+            },
+            {
+              "label": "Commander",
+              "detail": "Heavily fortified squad leaders directing coordinated field counterattacks"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "armyescape Tactical Items and Equipment",
+          "description": "Essential survival gear, protective helmets, field communication radios, and tactical backpacks.",
+          "href": "/items/army-escape-survival-kit",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Helmet",
+              "detail": "Ballistic helmet absorbing critical bullet impact damage"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Radio",
+              "detail": "Military communication gear intercepting enemy dispatch alerts"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Kit",
+              "detail": "Emergency field survival pack providing rapid first-aid utility"
+            },
+            {
+              "label": "Pack",
+              "detail": "Tactical rucksack expanding overall carrying capacity and supplies"
+            },
+            {
+              "label": "Belt",
+              "detail": "Reinforced combat belt providing quick access to extra magazines"
+            },
+            {
+              "label": "Vest",
+              "detail": "Lightweight protective body armor mitigating sustained fire"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "armyescape Promo Codes",
+          "description": "Latest redeemable promo codes, bonus reward drops, and official claiming instructions.",
+          "href": "/guide/army-escape-military-base-escape",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ESCAPE2026",
+              "detail": "Free Starter Supplies & Tactical Rations"
+            },
+            {
+              "label": "UPDATE11",
+              "detail": "Bonus Health Pack & Extra Ammunition Box"
+            },
+            {
+              "label": "SOLDIER50",
+              "detail": "Exclusive Tactical Gear Skin & Currency Boost"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "armyescape Game Updates and Release History",
+          "description": "Version changelog tracking enemy balancing, player health buffs, map expansions, and iOS enhancements.",
+          "href": "/guide/army-escape-evasion-training",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Version 1.1 Update — Added new enemy variants and significantly boosted base player health"
+            },
+            {
+              "label": "A",
+              "detail": "Version 1.0 Global Launch — Official release on iOS and iPad App Store with initial escape maps"
+            },
+            {
+              "label": "B",
+              "detail": "Control Optimization — Refined responsive touch evasion controls and smooth sprint mechanics"
+            },
+            {
+              "label": "C",
+              "detail": "Upcoming Content — Planned tactical gear, additional levels, and community balance adjustments"
             }
           ]
         }
@@ -304,27 +394,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to common questions about Army Escape mechanics, downloads, codes, and survival tactics.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Army Escape and how do you play?",
+          "answer": "Army Escape is a mobile military action survival game available on iOS and iPad developed by Duc Anh Nguyen Vu. Players navigate hostile danger zones, evade persistent enemy fire, strategically conserve limited ammo, eliminate threatening guards, and locate safe extraction points."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What devices and platforms support Army Escape?",
+          "answer": "Army Escape is currently available for iPhone and iPad devices running iOS 12.0 or later on the Apple App Store."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I conserve ammo and survive in Army Escape?",
+          "answer": "To survive in Army Escape, stick close to solid cover to avoid taking unnecessary fire, wait for clear firing angles before shooting to maximize limited ammunition, and focus on neutralizing enemies directly blocking your escape path."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What changed in the Army Escape version 1.1 update?",
+          "answer": "The version 1.1 update of Army Escape introduced additional enemy challenges while increasing the player character base health to deliver more balanced and intense tactical escape combat."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Are there working redeem codes for Army Escape?",
+          "answer": "Check the Army Escape promo codes section and community updates regularly for newly announced in-game rewards, seasonal bonuses, and gift codes."
         }
       ]
     },
