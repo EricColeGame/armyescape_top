@@ -60,6 +60,7 @@ export function Breadcrumbs({ items }: { items: { label: string; href?: string }
 export async function WikiSidebar({ locale, navGroups, currentPath }: { locale: string; navGroups: NavGroup[]; currentPath?: string }) {
   const t = await getTranslations({ locale, namespace: "shared" });
   const isActive = (href: string) => currentPath === href;
+  return (
     <aside className="space-y-6 lg:sticky lg:top-24 lg:max-h-[calc(100vh-8rem)] lg:overflow-y-auto lg:pr-1">
       <section className="rounded-2xl border border-border bg-card/60 p-5 shadow-sm">
         <h3 className="mb-4 text-xs font-bold uppercase tracking-[0.22em] text-muted-foreground">{t("wikiNavigation")}</h3>
