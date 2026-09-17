@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "maps": "Maps",
+    "items": "Items",
+    "controls": "Controls",
+    "tips": "Tips",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -460,5 +467,33 @@
     "buildGuide": "Weapons & Combat",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Army Escape Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive beginner tutorials, SERE training breakdowns, and tactical walkthroughs to help you escape hostile military zones."
+  },
+  "mechanics": {
+    "overviewTitle": "Army Escape Game Mechanics",
+    "overviewDescription": "In-depth guides on stealth mechanics, evasion tactics, puzzle systems, and survival protocols in Army Escape."
+  },
+  "maps": {
+    "overviewTitle": "Army Escape Maps & Locations",
+    "overviewDescription": "Detailed overviews of military bases, compounds, prison camps, and optimal tactical escape routes."
+  },
+  "items": {
+    "overviewTitle": "Army Escape Items & Gear",
+    "overviewDescription": "Full database of survival kits, tactical belts, helmets, communication radios, and field equipment."
+  },
+  "controls": {
+    "overviewTitle": "Army Escape Controls & Movement",
+    "overviewDescription": "Keybindings, movement techniques, touch evasion schemes, and tactical responsiveness settings."
+  },
+  "tips": {
+    "overviewTitle": "Army Escape Tips & Strategies",
+    "overviewDescription": "Proven escape tactics, enemy evasion strategies, time management, and expert survival recommendations."
+  },
+  "community": {
+    "overviewTitle": "Army Escape Community Hub",
+    "overviewDescription": "Connect with fellow players, join the official Discord, browse Reddit strategies, and share squad tactics."
   }
 }
